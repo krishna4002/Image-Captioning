@@ -1,0 +1,8 @@
+torch
+torchvision
+transformers
+openai
+requests
+streamlit
+Pillow
+dotenv
