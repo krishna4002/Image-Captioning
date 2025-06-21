@@ -132,9 +132,9 @@ dotenv
 
 Install them with:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -170,4 +170,4 @@ pip install -r requirements.txt
 
 This project was created with the goal of making **medical imaging more accessible** to the public and researchers. It also demonstrates how **vision and language AI can work together** in real-world applications.
 
-> ✨ Built with ❤ and AI
+> Built with ❤ and AI
