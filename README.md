@@ -80,8 +80,8 @@ project/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/image-captioning-medical-normal.git
-cd image-captioning-medical-normal
+git clone https://github.com/krishna4002/Image-Captioning-for-Medical-and-Normal.git
+cd Image-Captioning-for-Medical-and-Normal
 ```
 
 2. **Install Python Dependencies**
